@@ -1,0 +1,214 @@
+{
+    "_default": {
+        "1": {
+            "int": 1,
+            "type": "img",
+            "nombre": "acueducto de popayan",
+            "file": "com_1/acueducto de popayan.png",
+            "comuna": 1
+        },
+        "2": {
+            "int": 2,
+            "type": "img",
+            "nombre": "aeropuerto",
+            "file": "com_1/aeropuerto.png",
+            "comuna": 1
+        },
+        "3": {
+            "int": 3,
+            "type": "img",
+            "nombre": "batallon",
+            "file": "com_1/batallon.png",
+            "comuna": 1
+        },
+        "4": {
+            "int": 4,
+            "type": "img",
+            "nombre": "campanario",
+            "file": "com_1/campanario.png",
+            "comuna": 1
+        },
+        "5": {
+            "int": 5,
+            "type": "img",
+            "nombre": "terminal",
+            "file": "com_1/terminal.png",
+            "comuna": 1
+        },
+        "6": {
+            "int": 6,
+            "type": "img",
+            "nombre": "puente_viejo_cauca",
+            "file": "com_2/puente_viejo_cauca.png",
+            "comuna": 2
+        },
+        "7": {
+            "int": 7,
+            "type": "img",
+            "nombre": "recrea_comfacauca",
+            "file": "com_2/recrea_comfacauca.png",
+            "comuna": 2
+        },
+        "8": {
+            "int": 8,
+            "type": "img",
+            "nombre": "san_nicolas_restaurante",
+            "file": "com_2/san_nicolas_restaurante.png",
+            "comuna": 2
+        },
+        "9": {
+            "int": 9,
+            "type": "img",
+            "nombre": "sena_norte_cauca",
+            "file": "com_2/sena_norte_cauca.png",
+            "comuna": 2
+        },
+        "10": {
+            "int": 10,
+            "type": "img",
+            "nombre": "terra_plaza",
+            "file": "com_2/terra_plaza.png",
+            "comuna": 2
+        },
+        "11": {
+            "int": 11,
+            "type": "img",
+            "nombre": "club_campestre",
+            "file": "com_3/club_campestre.png",
+            "comuna": 3
+        },
+        "12": {
+            "int": 12,
+            "type": "img",
+            "nombre": "cruz_roja",
+            "file": "com_3/cruz_roja.png",
+            "comuna": 3
+        },
+        "13": {
+            "int": 13,
+            "type": "img",
+            "nombre": "estadio_crio_lopez",
+            "file": "com_3/estadio_crio_lopez.png",
+            "comuna": 3
+        },
+        "14": {
+            "int": 14,
+            "type": "img",
+            "nombre": "galeria_barrio_bolivar",
+            "file": "com_3/galeria_barrio_bolivar.png",
+            "comuna": 3
+        },
+        "15": {
+            "int": 15,
+            "type": "img",
+            "nombre": "loteria_del_cauca",
+            "file": "com_3/loteria_del_cauca.png",
+            "comuna": 3
+        },
+        "16": {
+            "int": 16,
+            "type": "img",
+            "nombre": "arcada_herreria",
+            "file": "com_4/arcada_herreria.png",
+            "comuna": 4
+        },
+        "17": {
+            "int": 17,
+            "type": "img",
+            "nombre": "casa_negret",
+            "file": "com_4/casa_negret.png",
+            "comuna": 4
+        },
+        "18": {
+            "int": 18,
+            "type": "img",
+            "nombre": "casa_poeta",
+            "file": "com_4/casa_poeta.png",
+            "comuna": 4
+        },
+        "19": {
+            "int": 19,
+            "type": "img",
+            "nombre": "casa_valencia",
+            "file": "com_4/casa_valencia.png",
+            "comuna": 4
+        },
+        "20": {
+            "int": 20,
+            "type": "img",
+            "nombre": "iglesiasanto",
+            "file": "com_4/iglesiasanto.png",
+            "comuna": 4
+        },
+        "21": {
+            "int": 21,
+            "type": "img",
+            "nombre": "morro_tulcan",
+            "file": "com_4/morro_tulcan.png",
+            "comuna": 4
+        },
+        "22": {
+            "int": 22,
+            "type": "img",
+            "nombre": "museo_religioso",
+            "file": "com_4/museo_religioso.png",
+            "comuna": 4
+        },
+        "23": {
+            "int": 23,
+            "type": "img",
+            "nombre": "palacio_nacional",
+            "file": "com_4/palacio_nacional.png",
+            "comuna": 4
+        },
+        "24": {
+            "int": 24,
+            "type": "img",
+            "nombre": "panteon",
+            "file": "com_4/panteon.png",
+            "comuna": 4
+        },
+        "25": {
+            "int": 25,
+            "type": "img",
+            "nombre": "parque_caldas",
+            "file": "com_4/parque_caldas.png",
+            "comuna": 4
+        },
+        "26": {
+            "int": 26,
+            "type": "img",
+            "nombre": "parque_julio",
+            "file": "com_4/parque_julio.png",
+            "comuna": 4
+        },
+        "27": {
+            "int": 27,
+            "type": "img",
+            "nombre": "pc1",
+            "file": "com_4/pc1.png",
+            "comuna": 4
+        },
+        "28": {
+            "int": 28,
+            "type": "img",
+            "nombre": "pueblito_patojo",
+            "file": "com_4/pueblito_patojo.png",
+            "comuna": 4
+        },
+        "29": {
+            "int": 29,
+            "type": "img",
+            "nombre": "puente_humilladero",
+            "file": "com_4/puente_humilladero.png",
+            "comuna": 4
+        },
+        "30": {
+            "int": 30,
+            "type": "img",
+            "nombre": "santuario",
+            "file": "com_4/santuario.png",
+            "comuna": 4
+        }
+    }
+}
